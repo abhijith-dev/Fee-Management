@@ -1,0 +1,8 @@
+.top-card {
+    position: fixed;
+    margin: 3rem;
+    width: 60%;
+    height: 60%;
+    background-color: rgb(219, 212, 212);
+    z-index: 2147483647;
+}

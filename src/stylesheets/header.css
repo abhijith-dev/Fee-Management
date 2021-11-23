@@ -1,0 +1,16 @@
+.nav {
+    display: flex;
+    width: 100%;
+    height: 3rem;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(156, 10, 10);
+}
+
+.nav p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    font-size: 1.3rem;
+    color: rgb(247, 240, 240);
+}
